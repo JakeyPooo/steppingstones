@@ -20,8 +20,8 @@ Make while loops act as if statements
 
 */
 
-#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 
 void  main(void) {
 	
