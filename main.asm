@@ -1,7 +1,7 @@
 #Author: Jacob Anderson
 #RedID: 827419418
 #Description: Navigate the correct path based on the given key. Score points based on how fast you traverse!
-
+#
 
 .data
 iBoard: 	.word 0 1 0

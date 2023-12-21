@@ -12,12 +12,6 @@ Status: I am using three if else statements to control the levels because my whi
 		backtracking down the path you came as you'll lose time. I added a break function to where if the
 		timer runs out at any point, the game ends and you get a game over screen and your score. Otherwise
 		if you complete all three levels, you get printed a congratulations screen with your score.
-
-For MIPS:
-Recode for loops to while loops - DONE
-Make Arrays access pointers instead of using square brackets
-Make while loops act as if statements
-
 */
 
 #define _CRT_SECURE_NO_WARNINGS
